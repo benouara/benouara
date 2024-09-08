@@ -7,6 +7,11 @@
 <h1 align="center">Hi 👋, I'm Benouara</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 
+<!-- Additional Image on the Right -->
+<p align="right">
+  <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="Additional Image" width="300" />
+</p>
+
 <!-- Profile Views -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=benouara&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
