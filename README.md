@@ -7,12 +7,23 @@
 <h1 align="center">Hi 👋, I'm Benouara</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 
-<!-- Coding Image -->
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" />
-
 <!-- Profile Views -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=benouara&label=Profile%20views&color=0e75b6&style=flat" alt="benouara" />
+</p>
+
+<!-- GitHub Profile Trophy -->
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=benouara" alt="benouara" />
+  </a>
+</p>
+
+<!-- Twitter Badge -->
+<p align="left">
+  <a href="https://twitter.com/" target="blank">
+    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Badge" />
+  </a>
 </p>
 
 <!-- Current Work and Learning -->
@@ -62,3 +73,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=benouara&show_icons=true&locale=en&layout=compact" alt="benouara" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=benouara&show_icons=true&locale=en" alt="benouara" /></p>
+
+<!-- GitHub Streak Stats -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=benouara&" alt="benouara" /></p>
