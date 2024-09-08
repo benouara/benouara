@@ -1,4 +1,9 @@
-<!-- Banner Image -->
+<!-- Additional Image on the Top -->
+<p align="center">
+  <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="Additional Image" width="100%" />
+</p>
+
+<!-- Banner Image Below -->
 <a href="https://rishavchanda.io">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="Banner Image" width="100%" />
 </a>
@@ -6,11 +11,6 @@
 <!-- Introduction -->
 <h1 align="center">Hi 👋, I'm Benouara</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
-
-<!-- Additional Image on the Right -->
-<p align="right">
-  <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="Additional Image" width="300" />
-</p>
 
 <!-- Profile Views -->
 <p align="left">
