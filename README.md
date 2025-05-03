@@ -16,7 +16,7 @@
 </p>
 
 <!-- Current Work and Learning -->
-- 🔭 I’m currently working on **todo app**
+- 🔭 I’m currently working on **My one Portfolio**
 - 🌱 I’m currently learning **JavaScript**
 - 💬 Ask me about **HTML, CSS, JavaScript**
 - 📫 How to reach me **mohamedkhalilbenouara@mail.com**
